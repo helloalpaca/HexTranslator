@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">16진수 번역기</string>
+    <string name="tab_text_1">16진수로 변환</string>
+    <string name="tab_text_2">문자로 변환</string>
+</resources>
