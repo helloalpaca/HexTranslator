@@ -73,6 +73,7 @@ class PlaceholderFragment : Fragment() {
         var result = ""
         var temp = str.toByteArray(Charsets.UTF_8)
         for (b in temp) {
+            println(b.toByte())
             val st = String.format("%02X", b)
             result += st
         }
