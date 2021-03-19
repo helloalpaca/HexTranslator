@@ -1,7 +1,6 @@
 # hexTranslator (16진수 번역기)
 Text ↔️ Hexadecimal Translator
 - email address : jms393497@gmail.com <br />
-- blog : https://popcorn16.tistory.com/ <br />
 
 ## Development Environment
 - Android Studio @4.0.1
